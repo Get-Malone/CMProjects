@@ -1,2 +1,2 @@
 # CMProjects
-#Aplicaciones de el curso de Computo Movil
+#Aplicaciones del curso de Computo Movil
